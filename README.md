@@ -1,7 +1,8 @@
 # GoBnB
 
-<h3 align="center">GoBnB - reference to AirBnB App</h3>
-
+<h3>GoBnB - a reference to AirBnB App</h3>
+<a href="https://gobnbproj.herokuapp.com/"><h4>https://gobnbproj.herokuapp.com/</h4></a>
+   
 <img src="https://res.cloudinary.com/dxjxht7x9/image/upload/v1649772261/Screen_Shot_2022-04-12_at_17.01.21_pdwkqr.png"/>
 
 <h3 align="left">Connect with me:</h3>
