@@ -1,9 +1,8 @@
-# sprint4
+# GoBnB
+
+<h3 align="center">GoBnB - reference to AirBnB App</h3>
 
 <img src="https://res.cloudinary.com/dxjxht7x9/image/upload/v1649772261/Screen_Shot_2022-04-12_at_17.01.21_pdwkqr.png"/>
-
-<h1 align="center">GoBnB - reference to AirBnB App</h1>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
